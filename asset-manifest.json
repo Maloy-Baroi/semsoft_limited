@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/semsoft_limited/static/css/main.d54f4f12.css",
+    "main.js": "/semsoft_limited/static/js/main.6f1a86c1.js",
+    "static/media/login-bg.mp4": "/semsoft_limited/static/media/login-bg.a24512a8104ab8da7d3f.mp4",
+    "static/media/Build-website.jpg": "/semsoft_limited/static/media/Build-website.e62ede8f3857b1a4e1b9.jpg",
+    "static/media/image-03.png": "/semsoft_limited/static/media/image-03.be140c4e43bbc1b25998.png",
+    "static/media/services.jpg": "/semsoft_limited/static/media/services.7b83f97ea1d6b98f9fd3.jpg",
+    "static/media/Rana.png": "/semsoft_limited/static/media/Rana.182c9632641b2515e285.png",
+    "static/media/mobile.png": "/semsoft_limited/static/media/mobile.71a8e73a21c7d1a1442b.png",
+    "static/media/Maloy.png": "/semsoft_limited/static/media/Maloy.fd60396cbbd9bdc728a2.png",
+    "static/media/Eva.png": "/semsoft_limited/static/media/Eva.49327e7feab9529332d4.png",
+    "static/media/logo_design.jpg": "/semsoft_limited/static/media/logo_design.bc9dc12c98966940367f.jpg",
+    "static/media/logo_gif.gif": "/semsoft_limited/static/media/logo_gif.65f405cd7cdbfbf09c29.gif",
+    "static/media/team_1.jpg": "/semsoft_limited/static/media/team_1.85f4ebdcb2d2b92244da.jpg",
+    "static/media/why-us.jpg": "/semsoft_limited/static/media/why-us.bf1aaeda5cbe9fd4e6e3.jpg",
+    "static/media/city.png": "/semsoft_limited/static/media/city.40966b1e432a497e28ba.png",
+    "static/media/dots.png": "/semsoft_limited/static/media/dots.a728aead9c9519f50c82.png",
+    "static/media/icon_2.svg": "/semsoft_limited/static/media/icon_2.c32e2a8e12c664f2883cb6815d50c8a9.svg",
+    "static/media/icon_1.svg": "/semsoft_limited/static/media/icon_1.4c62476d65206e3d52e3f7e76d3ed829.svg",
+    "static/media/icon_3.svg": "/semsoft_limited/static/media/icon_3.d8c9f5130494185d3bb625ece27b7446.svg",
+    "index.html": "/semsoft_limited/index.html",
+    "main.d54f4f12.css.map": "/semsoft_limited/static/css/main.d54f4f12.css.map",
+    "main.6f1a86c1.js.map": "/semsoft_limited/static/js/main.6f1a86c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d54f4f12.css",
+    "static/js/main.6f1a86c1.js"
+  ]
+}
